@@ -25,7 +25,7 @@ let headX = 10;
 let headY = 10;
 
 const snakeParts = [];
-let tailLength = 2;
+let tailLength = 0;
 
 let foodX = 5;
 let foodY = 5;
