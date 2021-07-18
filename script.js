@@ -1,8 +1,8 @@
 let cvs = document.getElementById("snekboard");
 let ctx = cvs.getContext("2d");
 
-let GAME_WIDTH = 400;
-let GAME_HEIGHT = 400;
+let GAME_WIDTH = 397;
+let GAME_HEIGHT = 397;
 
 class SnakePart {
     constructor(x, y) {
